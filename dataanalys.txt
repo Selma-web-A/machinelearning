@@ -1,0 +1,4 @@
+Nej, de första tio värdena blir oftast olika eftersom talen skapas slumpmässigt.
+Det ska visa 20 eftersom vi har ändrat antalet värden till 20.
+Alla genererade värden ligger mellan 50 och 60.
+Jag återställde till 100 värden mellan 0 och 100.
