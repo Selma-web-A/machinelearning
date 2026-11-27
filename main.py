@@ -15,3 +15,5 @@ number = (1, 10)
 my_fruktlista = data.fruktlista (number)
 print(my_fruktlista)
 diagram.show_histogram(my_fruktlista)
+
+print("probability")
